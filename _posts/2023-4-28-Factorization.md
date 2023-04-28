@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 因式分解专题练习
-permalink: posts/2023/4/28/factorization
+permalink: /posts/2023/4/28/factorization
 ---
 
 Factorization
@@ -38,7 +38,6 @@ Factorization
 30. $ ( x + 6 ) ( x - 6 ) - ( x - 6 ) $
 
 <!--
-## 31-40
 
 31. $ 3 ( x + 2 ) ( x - 5 ) - ( x + 2 ) ( x - 3 ) $
 32. $ 9 x ^ { 2 } + 42 x + 49 $
@@ -50,4 +49,5 @@ Factorization
 38. $ 4 x ^ { 2 } - 12 x + 5 $
 39. $ 3 a x ^ { 2 } - 6 a x $
 40. $ ( x + 2 ) ( x - 3 ) + ( x + 2 ) ( x + 4 ) $
+
 -->
