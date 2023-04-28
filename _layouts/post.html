@@ -10,8 +10,16 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    <span style="display:block;text-align:right;">
+      Written on {{ page.date | date: "%B %e, %Y" }}
+    </span>
   </div>
+
+  <a href="{{ site.baseurl }}/">
+    <span style="display:block;text-align:right;">
+      返回首页 Back to Home
+    </span>
+  </a>
 
   {% include disqus.html %}
 </article>
