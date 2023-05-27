@@ -1,5 +1,5 @@
 ---
-layout: math
+layout: post
 title: 因式分解专题练习
 permalink: /posts/2023/4/27/factorization
 ---
