@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: math
 title: 2023高考数学真题
 permalink: /posts/2023/6/2023-gk-math
 ---
