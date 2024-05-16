@@ -24,7 +24,7 @@ $ l_{AD}: y=\frac{y_{D}}{d+1}(x+1) $
 
 $ 联立两个方程:$
 
-$  \begin{cases} l_{BC}: y=\frac{1}{2} x - 2 \Rightarrow x = 2y+4 \\ l_{AD}: y=\frac{y_{D}}{d+1}(x+1) = \frac{y_{D}}{d+1}(2y+5) \end{cases} $
+$\begin{cases} l_{BC}: y=\frac{1}{2} x - 2 \\ l_{AD}: y=\frac{y_{D}}{d+1}(x+1) \end{cases} $
 
 $ 解得 y_E =\frac{5 y_{D}}{d+1 - 2y_{D}}$
 
