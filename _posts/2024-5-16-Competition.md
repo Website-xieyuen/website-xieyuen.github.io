@@ -1,6 +1,6 @@
 ---
 layout: math
-title: 数学竞赛25(2)答案
+title: 数学竞赛25答案
 permalink: /posts/2024/5/answer-math-competition-25
 ---
 
@@ -16,15 +16,15 @@ $\therefore y = \frac{1}{2} (x - \frac{3}{2})^{2} - \frac{25}{8} = \frac{1}{2}(x
 
 $(2)设点D(d, y_{D})$
 
-$容易知道 \frac{S_1}{S_2} = \frac{y_{D}}{y_{E}} - 1$
+$容易知道 \cfrac{S_1}{S_2} = \cfrac{y_{D}}{y_{E}} - 1$
 
 $又 l_{BC}: y=\frac{1}{2} x - 2$
 
-$l_{AD}: y=\frac{y_{D}}{d+1}(x+1)$
+$l_{AD}: y=\cfrac{y_{D}}{d+1}(x+1)$
 
-$联立两个方程得 y_E =\frac{5 y_{D}}{d+1 - 2y_{D}}$
+$联立两个方程得 y_E =\cfrac{5 y_{D}}{d+1 - 2y_{D}}$
 
-$代回上式得 \frac{S_1}{S_2}=\frac{y_{D}}{\frac{5 y_{D}}{d+1 - 2y_{D}}} -1 =\frac{d+1 - 2y_{D}}{5} -1$
+$代回上式得 \cfrac{S_1}{S_2}=\cfrac{y_{D}}{\dfrac{5 y_{D}}{d+1 - 2y_{D}}} -1 =\cfrac{d+1 - 2y_{D}}{5} -1$
 
 $\therefore 当且仅当 d+1 - 2y_{D} 取得最大时,\frac{S_1}{S_2}取得最大$
 
